@@ -120,10 +120,12 @@ The application interface includes the following screens:
 7. **Placement Tracker** — manage company applications and their status.
 8. **Profile** — manage student and professional information.
 
+<img width="601" height="338" alt="Screenshot 2026-10-10 153411" src="https://github.com/user-attachments/assets/3a63c00d-6a58-4704-a437-f3bc35e0cb41" />
+<img width="599" height="313" alt="Screenshot 2026-10-10 153501" src="https://github.com/user-attachments/assets/a3dec14d-8e17-4137-9e05-8ec431d40668" />
 <img width="591" height="308" alt="Screenshot 2026-10-10 153448" src="https://github.com/user-attachments/assets/c2e84da8-036c-4c8c-89c6-e95b60f40410" />
 <img width="610" height="335" alt="Screenshot 2026-10-10 153430" src="https://github.com/user-attachments/assets/794fdb4e-3f30-4d34-b432-24ad724ea95a" />
-<img width="655" height="337" alt="Screenshot 2026-10-10 153418" src="https://github.com/user-attachments/assets/202a7fda-a2fe-4ee6-9d57-97e1db4e8142" />
-<img width="601" height="338" alt="Screenshot 2026-10-10 153411" src="https://github.com/user-attachments/assets/3a63c00d-6a58-4704-a437-f3bc35e0cb41" />
+
+
 
 
 
